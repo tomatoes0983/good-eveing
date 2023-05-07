@@ -1,0 +1,18 @@
+.good_name{
+    display: flex;
+    justify-content: space-around;
+}
+.good_name a{
+    border: 1px #36bbce solid;
+    border-radius: 10px;
+    background-color: #36bbce;
+    height: 50px;
+    width: 150px;
+
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2opx;
+}
